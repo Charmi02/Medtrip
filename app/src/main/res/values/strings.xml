@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MedTrip Application</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+
+    <string name="slide_1_title">PROCEDURES</string>
+    <string name="slide_1_desc">Welcome to the MedTrip!</string>
+
+    <string name="slide_2_title">Serch For Treatment</string>
+    <string name="slide_2_desc">In which Area or city you want to Go For Your Treatment!!!</string>
+
+    <string name="slide_3_title">Medical Tourism Destinations</string>
+    <string name="slide_3_desc">Find a Clinic @ Popular Medical Tourism Destinations
+We help you choose the best hospital based on your budget and destination preferences.</string>
+
+    <string name="slide_4_title">Medical Tourism in India</string>
+    <string name="slide_4_desc">What medical tourisum provide!!!</string>
+
+    <string name="slide_5_title">insight Stories</string>
+    <string name="slide_5_desc"> Medical Tourism in India- insight Stories</string>
+    <string name="title_activity_my_homepage">MyHomepageActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+</resources>
